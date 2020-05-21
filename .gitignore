@@ -1,0 +1,5 @@
+# Dependency directories
+node_modules/
+
+# Dumb mac files
+.DS_Store
